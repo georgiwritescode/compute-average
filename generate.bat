@@ -1,0 +1,1 @@
+protoc proto/computeAverage.proto --go_out=plugins=grpc:.
